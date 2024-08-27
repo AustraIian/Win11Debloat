@@ -6,9 +6,7 @@ You can pick and choose exactly which modifications you want the script to make,
 
 ![Win11Debloat Menu](/Assets/menu.png)
 
-#### Did this script help you? Please consider buying me a cup of coffee to support my work
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M5C6UPC)
 
 ## Features
 
